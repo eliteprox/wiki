@@ -1,3 +1,8 @@
+
+Latest documentation here: https://docs.livepeer.org/protocol/reference/deployed
+
+This page has been deprecated
+
 Addresses of deployed contracts of the Livepeer protocol on various networks. All contracts implement the Streamflow version of the Livepeer protocol.
 
 Rinkeby (LPSFT-0) is a fresh deployment of the Streamflow protocol contracts.
